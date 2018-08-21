@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "console_cloud",
+    "script": "production.js",
+    "cwd": "/Users/elevenlee/Documents/console_cloud",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
